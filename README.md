@@ -33,7 +33,7 @@
 
 ### 1. Clona este repositorio y accede al directorio:
 ```bash
-git clone https://github.com/tu-usuario/airtrail-docker.git
+git clone https://github.com/JLalib/docker-airtrail.git
 cd airtrail-docker
 ```
 
